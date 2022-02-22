@@ -45,3 +45,8 @@ The up command will pull the mongo image from the docker registry and create the
 ## Links
 * https://www.bmc.com/blogs/mongodb-docker
 * https://docs.docker.com/engine/reference/commandline/rm/
+* https://www.linkedin.com/pulse/get-started-spring-boot-mongodb-docker-compose-saeid-farahi/
+* https://medium.com/@volmar.oliveira.jr/a-restapi-using-spring-boot-mongodb-running-on-docker-containers-5e530b48f45e
+* https://javatodev.com/docker-compose-for-spring-boot-with-mongodb/
+* https://nirajsonawane.github.io/2019/12/16/Spring-Boot-Mongodb-Docker-Compose/
+* http://www.w3big.com/de/mongodb/mongodb-query.html
