@@ -1,5 +1,6 @@
 .git/
 .idea/
+.vscode/
 .gradle/
 build/
 .DS_Store
